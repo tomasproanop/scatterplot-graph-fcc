@@ -4,7 +4,7 @@ Visualize Data with a Scatterplot Graph - 2nd Data Visualization Project from fr
 In the Data Visualization Certification, I learned to build charts, graphs and maps to present 
 different types of data with the D3.js library.
 
-I'll also learned about JSON and how to work with data online using an API.
+I also learned about JSON and how to work with data online using an API.
 
 Screenshot: 
 
